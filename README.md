@@ -1,3 +1,10 @@
+### Select wich rom to load
+
+- `mb_default.gba` will load by default
+- `mb1.gba` by shorting `GND` to pin `17`
+- `mb2.gba` by shorting `GND` to pin `18`
+- `mb3.gba` by shorting `GND` to pin `19`
+
 # Pico multiboot loader
 
 This is a quick project to make a portable GBA multiboot distributor using a Raspberry Pico.
